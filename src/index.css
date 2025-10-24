@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #16a34a; /* Green color for navigation arrows */
+}
+
+.swiper-pagination-bullet-active {
+  background: #16a34a; /* Green color for active pagination bullet */
+}

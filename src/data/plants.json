@@ -1,0 +1,74 @@
+[
+    {
+      "plantId": 1,
+      "plantName": "Snake Plant",
+      "category": "Air Purifier",
+      "price": 18,
+      "rating": 4.8,
+      "availableStock": 10,
+      "careLevel": "Easy",
+      "description": "A hardy plant that purifies indoor air and thrives in low light.",
+      "image": "https://images.unsplash.com/photo-1593483524503-7b91e78d4e5b",
+      "providerName": "UrbanGreen Studio"
+    },
+    {
+      "plantId": 2,
+      "plantName": "Peace Lily",
+      "category": "Low Light",
+      "price": 22,
+      "rating": 4.5,
+      "availableStock": 8,
+      "careLevel": "Moderate",
+      "description": "A beautiful plant with white blooms, perfect for low-light areas.",
+      "image": "https://images.unsplash.com/photo-1597072841139-7b9b69b6b0b1",
+      "providerName": "GreenLeaf Nursery"
+    },
+    {
+      "plantId": 3,
+      "plantName": "Fiddle Leaf Fig",
+      "category": "Decorative",
+      "price": 35,
+      "rating": 4.7,
+      "availableStock": 5,
+      "careLevel": "Moderate",
+      "description": "A trendy plant with large, glossy leaves, ideal for home decor.",
+      "image": "https://images.unsplash.com/photo-1614594975525-8c26c82d7b9e",
+      "providerName": "UrbanGreen Studio"
+    },
+    {
+      "plantId": 4,
+      "plantName": "Pothos",
+      "category": "Trailing",
+      "price": 15,
+      "rating": 4.9,
+      "availableStock": 12,
+      "careLevel": "Easy",
+      "description": "A low-maintenance trailing plant with heart-shaped leaves.",
+      "image": "https://images.unsplash.com/photo-1586786841023-0a6f7b9b7b6b",
+      "providerName": "GreenLeaf Nursery"
+    },
+    {
+      "plantId": 5,
+      "plantName": "Monstera",
+      "category": "Decorative",
+      "price": 40,
+      "rating": 4.6,
+      "availableStock": 7,
+      "careLevel": "Moderate",
+      "description": "Known for its unique split leaves, a statement piece for any room.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "providerName": "UrbanGreen Studio"
+    },
+    {
+      "plantId": 6,
+      "plantName": "ZZ Plant",
+      "category": "Low Maintenance",
+      "price": 20,
+      "rating": 4.8,
+      "availableStock": 9,
+      "careLevel": "Easy",
+      "description": "A tough plant that thrives in low light and requires minimal care.",
+      "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d",
+      "providerName": "GreenLeaf Nursery"
+    }
+  ]
