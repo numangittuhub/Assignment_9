@@ -9,3 +9,38 @@
 .swiper-pagination-bullet-active {
   background: #16a34a; /* Green color for active pagination bullet */
 }
+
+/* Custom styles for GreenNest */
+body {
+  @apply bg-gray-50 font-sans;
+}
+
+/* Swiper styles */
+.swiper-button-next,
+.swiper-button-prev {
+  @apply text-green-600 w-8 h-8 sm:w-10 sm:h-10;
+}
+
+.swiper-pagination-bullet-active {
+  @apply bg-green-600;
+}
+
+/* Card hover effect */
+.card {
+  @apply transition-transform duration-300 transform hover:-translate-y-2 hover:shadow-2xl;
+}
+
+/* Button hover effect */
+.btn-primary {
+  @apply bg-green-600 text-white hover:bg-green-700 transition-colors duration-200;
+}
+
+/* Hero background */
+.hero {
+  @apply bg-gradient-to-r from-green-100 to-green-200;
+}
+
+/* Input field focus */
+.input:focus {
+  @apply ring-2 ring-green-500 border-green-500;
+}
